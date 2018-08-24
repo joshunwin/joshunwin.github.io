@@ -1,36 +1,36 @@
-<!DOCTYPE html>
-<html lang="en">
-<html>
-<head>
-  <meta charset="utf-8">
-  <title>Josh Unwin</title>
+---
+layout: default
+title: Home
+---
 
-  <link href="https://fonts.googleapis.com/css?family=Noto+Sans|Roboto|Roboto+Condensed" rel="stylesheet">
-  <link href="reset.css" rel="stylesheet">
-  <link href="styles.css" rel="stylesheet">
-</head>
-
-
-<body>
-  <div class="page-content">
-  <div class="contact-card">
-        <div class="profile-photo-container">
-          <img id="profile-photo" src="media/icons/joshunwin.jpg" width="128px" />
-        </div>
-        <div class="contact-info">
-          <h3>Josh Unwin</h3>
-            <ul>
-              <li>Techie</li>
-              <li>Coffee Drinker</li>
-              <li>Film Nerd</li>
-              <li>Minimalist</li>
-            </ul>
-          <div class="social-icons">
-            <a href="https://www.instagram.com/joshunwin/" target="_blank"><img id="social-icon" src="media/icons/instagram.png" width="32px" /></a>
-            <a href="https://www.github.com/joshunwin/" target="_blank"><img id='social-icon' src="media/icons/github.png" width="32px" /></a>
-          </div>
-        </div>
+{% for post in paginator.posts %}
+<div class="posts">
+  <h1>
+    <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
+  </h1>
+  {% if post.image %}
+  <div class="thumbnail-container">
+    <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/assets/img/{{ post.image }}"></a>
   </div>
-  </div>
-</body>
-</html>
+  {% endif %}
+  <p>
+    {{ post.content | strip_html | truncate: 350 }} <a href="{{ site.github.url }}{{ post.url }}">Read more</a>
+    <span class="post-date"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
+  </p>
+</div>
+{% endfor %}
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-button pagination-active" href="{{ site.github.url }}{{ paginator.next_page_path }}" class="next">{{ site.data.settings.pagination.previous_page }}</a>
+  {% else %}
+    <span class="pagination-button">{{ site.data.settings.pagination.previous_page }}</span>
+  {% endif %}
+
+  {% if paginator.previous_page %}
+    <a class="pagination-button pagination-active" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">{{ site.data.settings.pagination.next_page }}</a>
+  {% else %}
+    <span class="pagination-button">{{ site.data.settings.pagination.next_page }}</span>
+  {% endif %}
+</div>
