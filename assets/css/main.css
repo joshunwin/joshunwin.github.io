@@ -82,7 +82,7 @@ hr {
 .container {
   margin-left: auto;
   margin-right: auto;
-  width: 820px;
+  width: 740px;
 }
 
 /*48em*/
@@ -498,4 +498,66 @@ th, td {
 
 .fa-rss-square:hover {
 	color: #ff6600;
+}
+
+/* Josh's css */
+
+.contact-card {
+  display: inline-flex;
+  width: 400px;
+  height: 200px;
+  box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.2), 0px 3px 4px 0px rgba(0, 0, 0, 0.2) ;
+  padding: 40px;
+  border-radius: 6px;
+  background-color: #ffffff;
+  margin: 2em 0 2em 6em;
+}
+
+.contact-card:hover {
+  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.2), 0px 6px 6px 0px rgba(0, 0, 0, 0.2) ;
+}
+
+.profile-photo-container {
+  position: relative;
+  width: 50%;
+}
+
+#profile-photo {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-65%, -50%);
+}
+
+.contact-info {
+  text-align: left;
+  width: 50%;
+}
+
+.social-icons-contact-card {
+  padding: 15px 0 20px 0;
+}
+
+#social-icon {
+padding-right: 20px;
+}
+
+contact-header {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 32px;
+  font-weight: 600;
+  padding: 8px 0 8px 0;
+}
+
+.contact-body {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 16px;
+  font-weight: 200;
+}
+
+.contact-card-list {
+  -webkit-margin-before: 0em;
+  -webkit-padding-start: 0px;
+  list-style: none;
+  -webkit-margin-after: 0em;
 }

@@ -1,16 +1,34 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: Who am I and what is this?
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+![About Me Banner](/assets/img/static/about-me-banner.jpg)
 
-### Getting Started
+Hi, I'm Josh from London, I like coffee and [Weetos](https://www.weetabixfoodcompany.co.uk/our-brands/weetos).
+
+I currently work in film and tv, looking after the footage pipeline during production. Are the rushes (footage) safe? Are editorial happy? Is the production team happy? Does the cinematographers look pass through correctly to post production? Is the answer to these is yes, then my job is done.
+
+Outside of work though, I have a keen interest in technology and the environment, and so I wanted an outlet to write my musings - if not for anyone else, then at least  for me!
 
 
-### Example Content
-
-
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+<div class="page-content">
+<div class="contact-card">
+      <div class="profile-photo-container">
+        <img id="profile-photo" src="/assets/img/static/joshunwin.jpg" width="128px" />
+      </div>
+      <div class="contact-info">
+        <contact-header>Josh Unwin</contact-header>
+          <ul class="contact-card-list">
+            <li class="contact-body">Techie</li>
+            <li class="contact-body">Coffee Drinker</li>
+            <li class="contact-body">Film Nerd</li>
+            <li class="contact-body">Minimalist</li>
+          </ul>
+        <div class="social-icons-contact-card">
+          <a href="https://www.instagram.com/joshunwin/" target="_blank"><img id="social-icon" src="/assets/img/static/instagram.png" width="32px" /></a>
+          <a href="https://www.github.com/joshunwin/" target="_blank"><img id='social-icon' src="/assets/img/static/github.png" width="32px" /></a>
+        </div>
+      </div>
+</div>
+</div>

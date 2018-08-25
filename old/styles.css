@@ -13,14 +13,14 @@ h1 {
   padding: 20px;
 }
 
-h3 {
+contact-header {
   font-family: 'Noto Sans', sans-serif;
   font-size: 32px;
   font-weight: 600;
   padding: 8px 0 8px 0;
 }
 
-p, li {
+contact-body {
   font-family: 'Noto Sans', sans-serif;
   font-size: 16px;
   font-weight: 200;
