@@ -524,9 +524,11 @@ th, td {
 
 #profile-photo {
   position: absolute;
+  width: 150px;
   top: 50%;
   left: 50%;
   transform: translate(-65%, -50%);
+  border-radius: 50%;
 }
 
 .contact-info {

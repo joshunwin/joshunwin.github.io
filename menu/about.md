@@ -15,7 +15,7 @@ Outside of work though, I have a keen interest in technology and the environment
 <div class="page-content">
 <div class="contact-card">
       <div class="profile-photo-container">
-        <img id="profile-photo" src="/assets/img/static/joshunwin.jpg" width="128px" />
+        <img id="profile-photo" src="/assets/img/static/profile-photo.jpg" width="128px" />
       </div>
       <div class="contact-info">
         <contact-header>Josh Unwin</contact-header>
