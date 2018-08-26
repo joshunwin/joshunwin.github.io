@@ -116,6 +116,10 @@ hr {
 
 .masthead-subtitle {
   color: #999;
+  font-size: larger;
+  float: right;
+  margin-top: 16px;
+  top: 20px;
 }
 
 /*
@@ -562,4 +566,9 @@ contact-header {
   -webkit-padding-start: 0px;
   list-style: none;
   -webkit-margin-after: 0em;
+  padding-top: 4px;
+}
+
+.logo {
+  max-width: 33.3%;
 }

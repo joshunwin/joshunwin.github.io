@@ -7,9 +7,9 @@ title: Who am I and what is this?
 
 Hi, I'm Josh from London, I like coffee and [Weetos](https://www.weetabixfoodcompany.co.uk/our-brands/weetos).
 
-I currently work in film and tv, looking after the footage pipeline during production. Are the rushes (footage) safe? Are editorial happy? Is the production team happy? Does the cinematographers look pass through correctly to post production? Is the answer to these is yes, then my job is done.
+I currently work in film and tv, looking after the footage pipeline during production. What does that mean you ask? In short, if the answer to these is yes, then my job is done: Are the rushes (footage) safe? Are editorial happy? Is the production team happy? Does the cinematographers look pass through correctly to post production?
 
-Outside of work though, I have a keen interest in technology and the environment, and so I wanted an outlet to write my musings - if not for anyone else, then at least  for me!
+Outside of work, I have a few interests and hobbies that I hope to be able to write a little bit about here. I've always enjoyed writing, and I wanted a place to satisfy that by allowing me to post short musings. Posts could be just about any topic, but expect a fair amount of environmental and technology orientated pieces.
 
 
 <div class="page-content">
@@ -20,10 +20,10 @@ Outside of work though, I have a keen interest in technology and the environment
       <div class="contact-info">
         <contact-header>Josh Unwin</contact-header>
           <ul class="contact-card-list">
-            <li class="contact-body">Techie</li>
+            <li class="contact-body">Tech Head</li>
             <li class="contact-body">Coffee Drinker</li>
-            <li class="contact-body">Film Nerd</li>
-            <li class="contact-body">Minimalist</li>
+            <li class="contact-body">Planet Earth Fanboy</li>
+            <li class="contact-body">Part-time Insomniac</li>
           </ul>
         <div class="social-icons-contact-card">
           <a href="https://www.instagram.com/joshunwin/" target="_blank"><img id="social-icon" src="/assets/img/static/instagram.png" width="32px" /></a>
