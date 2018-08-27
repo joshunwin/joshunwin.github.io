@@ -26,8 +26,9 @@ Outside of work, I have a few interests and hobbies that I hope to be able to wr
             <li class="contact-body">Part-time Insomniac</li>
           </ul>
         <div class="social-icons-contact-card">
-          <a href="https://www.instagram.com/joshunwin/" target="_blank"><img id="social-icon" src="/assets/img/static/instagram.png" width="32px" /></a>
-          <a href="https://www.github.com/joshunwin/" target="_blank"><img id='social-icon' src="/assets/img/static/github.png" width="32px" /></a>
+          <a href="https://www.instagram.com/joshunwin/" target="blank"><img id="social-icon" src="/assets/img/static/instagram.png" width="28px" /></a>
+          <a href="https://www.twitter.com/joshunwin/" target="blank"><img id='social-icon' src="/assets/img/static/twitter.png" width="28px" /></a>
+          <a href="mailto:joshunwin+blog@gmail.com" target="blank"><img id='social-icon' src="/assets/img/static/mail.png" width="28px" /></a>
         </div>
       </div>
 </div>
