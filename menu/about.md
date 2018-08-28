@@ -9,8 +9,7 @@ Hi, I'm Josh from London, I like coffee and [Weetos](https://www.weetabixfoodcom
 
 I currently work in film and tv, looking after the footage pipeline during production. What does that mean you ask? In short, if the answer to these is yes, then my job is done: Are the rushes (footage) safe? Are editorial happy? Is the production team happy? Does the cinematographers look pass through correctly to post production?
 
-Outside of work, I have a few interests and hobbies that I hope to be able to write a little bit about here. I've always enjoyed writing, and I wanted a place to satisfy that by allowing me to post short musings. Posts could be just about any topic, but expect a fair amount of environmental and technology orientated pieces.
-
+Outside of work, I have a few interests and hobbies that I hope to be able to write a little bit about here. I've always enjoyed writing, and I wanted a place to satisfy that enjoyment by allowing me to post any thoughts I deem worthy of a spot on this little blog. Posts could be just about any topic, but expect a fair amount of environmental and technology orientated pieces - two things I'm passionate about and keen to embrace further.
 
 <div class="page-content">
 <div class="contact-card">

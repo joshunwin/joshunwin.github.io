@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Josh's first post"
+title: "Content will be here soon.."
 author: "Josh Unwin"
 categories: journal
 tags: [documentation,sample]
-image: 
+image: puppy.jpg
 ---
 
-Hi there, this is my first full blog post!!
+For now, enjoy this little guy.
