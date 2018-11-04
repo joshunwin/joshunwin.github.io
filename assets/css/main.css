@@ -41,6 +41,64 @@ body {
   .menu {
       padding-top: 1.5rem;
   }
+
+  /* Contact Card CSS - Mobile */
+
+  .contact-card {
+    display: inline-flex;
+    width: 300px;
+    height: 170px;
+    box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.2), 0px 3px 4px 0px rgba(0, 0, 0, 0.2) ;
+    padding: 10px;
+    border-radius: 6px;
+    background-color: #ffffff;
+    margin: 2em 0em 0em 0em;
+  }
+
+  .contact-card:hover {
+    box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.2), 0px 6px 6px 0px rgba(0, 0, 0, 0.2) ;
+  }
+
+  .profile-photo-container {
+    position: relative;
+    width: 35%;
+    margin-left: 20px;
+  }
+
+  #profile-photo {
+    position: absolute;
+    width: 110px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-65%, -50%);
+    border-radius: 50%;
+  }
+
+  #contact-logo {
+  }
+
+  .contact-info {
+    text-align: left;
+    padding-top: 3em;
+    width: 50%;
+  }
+
+  .social-icons-contact-card {
+    padding: 18px 0 20px 3px;
+  }
+
+  #social-icon {
+  padding-right: 20px;
+  width: 15%;
+  }
+
+
+  .contact-body {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 12px;
+    font-weight: 200;
+  }
+
 }
 
 @media (min-width: 45em) {
@@ -53,6 +111,62 @@ body {
   .menu {
       padding-top: 0.5rem;
   }
+
+  /* Contact Card CSS - Desktop */
+
+  .contact-card {
+    display: inline-flex;
+    width: 400px;
+    height: 200px;
+    box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.2), 0px 3px 4px 0px rgba(0, 0, 0, 0.2) ;
+    padding: 40px;
+    border-radius: 6px;
+    background-color: #ffffff;
+    margin: 2em 0 2em 6em;
+  }
+
+  .contact-card:hover {
+    box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.2), 0px 6px 6px 0px rgba(0, 0, 0, 0.2) ;
+  }
+
+  .profile-photo-container {
+    position: relative;
+    width: 50%;
+  }
+
+  #profile-photo {
+    position: absolute;
+    width: 150px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-65%, -50%);
+    border-radius: 50%;
+  }
+
+  #contact-logo {
+  }
+
+  .contact-info {
+    text-align: left;
+    padding-top: 50px;
+    width: 50%;
+  }
+
+  .social-icons-contact-card {
+    padding: 18px 0 20px 3px;
+  }
+
+  #social-icon {
+  padding-right: 20px;
+  }
+
+
+  .contact-body {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 200;
+  }
+
 }
 
 h1{
@@ -533,65 +647,3 @@ th, td {
 .fa-rss-square:hover {
 	color: #ff6600;
 }
-
-/* Josh's css */
-
-.contact-card {
-  display: inline-flex;
-  width: 400px;
-  height: 200px;
-  box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.2), 0px 3px 4px 0px rgba(0, 0, 0, 0.2) ;
-  padding: 40px;
-  border-radius: 6px;
-  background-color: #ffffff;
-  margin: 2em 0 2em 6em;
-}
-
-.contact-card:hover {
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.2), 0px 6px 6px 0px rgba(0, 0, 0, 0.2) ;
-}
-
-.profile-photo-container {
-  position: relative;
-  width: 50%;
-}
-
-#profile-photo {
-  position: absolute;
-  width: 150px;
-  top: 50%;
-  left: 50%;
-  transform: translate(-65%, -50%);
-  border-radius: 50%;
-}
-
-#contact-logo {
-}
-
-.contact-info {
-  text-align: left;
-  padding-top: 50px;
-  width: 50%;
-}
-
-.social-icons-contact-card {
-  padding: 18px 0 20px 3px;
-}
-
-#social-icon {
-padding-right: 20px;
-}
-
-
-.contact-body {
-  font-family: 'Noto Sans', sans-serif;
-  font-size: 16px;
-  font-weight: 200;
-}
-
-/* .logo {
-  max-width: 35%;
-  display:block;
-  margin-left:auto;
-  margin-right:auto;
-} */
