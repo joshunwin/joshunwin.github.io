@@ -24,13 +24,34 @@ body {
   line-height: 1.75rem;
 }
 
-@media (max-width: 30em) {
+@media (max-width: 45em) {
   body {
-    font-size: 14px;
+    font-size: 15px;
     line-height: 1.5rem;
   }
   body h1 {
     font-size: 1.5rem;
+  }
+  .logo {
+    max-width: 50%;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+  }
+  .menu {
+      padding-top: 1.5rem;
+  }
+}
+
+@media (min-width: 45em) {
+  .logo {
+    max-width: 35%;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+  }
+  .menu {
+      padding-top: 0.5rem;
   }
 }
 
@@ -568,9 +589,9 @@ padding-right: 20px;
   font-weight: 200;
 }
 
-.logo {
+/* .logo {
   max-width: 35%;
   display:block;
   margin-left:auto;
   margin-right:auto;
-}
+} */

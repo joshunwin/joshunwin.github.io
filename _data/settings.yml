@@ -3,7 +3,7 @@ disqus:
   comments: false
   disqus_shortname: ''
 
-google-ID: ''
+google-ID: 'UA-128638660-1'
 
 menu:
 - {name: 'About', path: 'menu', url: 'about.html'}
@@ -24,7 +24,7 @@ pagination:
   next_page: 'Newer'
   previous_page: 'Older'
 
-sharing_button_prompt: 'Feel free to share!'
+#sharing_button_prompt: 'Feel free to share!'
 
 related_posts: 'You may also enjoy:'
 
