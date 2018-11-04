@@ -20,7 +20,7 @@
 body {
   font-family: "PT Serif", Georgia, "Times New Roman", serif;
   font-size: 18px;
-  color: #515151;
+  color: #3e4550;
   line-height: 1.75rem;
 }
 
@@ -36,24 +36,34 @@ body {
 
 h1{
   font-size: 2rem;
+  line-height: 2rem;
 }
 
 h1 a {
   text-decoration: none;
+  color: #4F5D75;
+}
+
+h1 a:hover {
+  color: #EF8354;
+}
+
+h2 {
+  padding-top: 1.5rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Quattrocento Sans", sans-serif;
-  color: #333;
+  color: #4F5D75;
 }
 
 a {
   text-decoration: underline;
-  color: #333;
+  color: #EF8354;
 }
 
 a:hover {
-  color: black;
+  color: #4F5D75;
   border-bottom: none;
 }
 
@@ -82,7 +92,7 @@ hr {
 .container {
   margin-left: auto;
   margin-right: auto;
-  width: 740px;
+  width: 800px;
 }
 
 /*48em*/
@@ -115,7 +125,7 @@ hr {
 }
 
 .masthead-subtitle {
-  color: #999;
+  color: #4F5D75;
   font-size: inherit;
   float: right;
   margin-top: 16px;
@@ -195,7 +205,7 @@ hr {
 }
 
 .pagination-button {
-  color: #999;
+  color: #4F5D75;
   border: 1px solid #e0e0e0;
   padding: 15px 45px;
   display: inline-block;
@@ -222,13 +232,13 @@ hr {
 }
 
 .footer a {
-  color: #999;
+  color: #4F5D75;
   padding: 10px;
   text-decoration: none;
 }
 
 .footer a:hover {
-  color: #333;
+  color: #EF8354;
 }
 
 /*
@@ -245,7 +255,7 @@ hr {
 }
 
 .menu-content a {
-  color: #999;
+  color: #4F5D75;
   font-size: 1rem;
   padding-right: 10px;
 }
@@ -255,7 +265,7 @@ hr {
 }
 
 .social-icons a {
-  color: #999;
+  color: #4F5D75;
   font-size: 1rem;
 }
 
@@ -535,38 +545,28 @@ th, td {
   border-radius: 50%;
 }
 
+#contact-logo {
+}
+
 .contact-info {
   text-align: left;
+  padding-top: 50px;
   width: 50%;
 }
 
 .social-icons-contact-card {
-  padding: 15px 0 20px 0;
+  padding: 18px 0 20px 3px;
 }
 
 #social-icon {
 padding-right: 20px;
 }
 
-contact-header {
-  font-family: 'Noto Sans', sans-serif;
-  font-size: 32px;
-  font-weight: 600;
-  padding: 8px 0 8px 0;
-}
 
 .contact-body {
   font-family: 'Noto Sans', sans-serif;
   font-size: 16px;
   font-weight: 200;
-}
-
-.contact-card-list {
-  -webkit-margin-before: 0em;
-  -webkit-padding-start: 0px;
-  list-style: none;
-  -webkit-margin-after: 0em;
-  padding-top: 4px;
 }
 
 .logo {

@@ -17,13 +17,7 @@ Outside of work, I have a few interests and hobbies that I hope to be able to wr
         <img id="profile-photo" src="/assets/img/static/profile-photo.jpg" width="128px" />
       </div>
       <div class="contact-info">
-        <contact-header>Josh Unwin</contact-header>
-          <ul class="contact-card-list">
-            <li class="contact-body">Tech Head</li>
-            <li class="contact-body">Coffee Drinker</li>
-            <li class="contact-body">Planet Earth Fanboy</li>
-            <li class="contact-body">Part-time Insomniac</li>
-          </ul>
+        <img id="contact-logo" src="/assets/img/static/logo-main.png" width="200px">
         <div class="social-icons-contact-card">
           <a href="https://www.instagram.com/joshunwin/" target="blank"><img id="social-icon" src="/assets/img/static/instagram.png" width="28px" /></a>
           <a href="https://www.twitter.com/joshunwin/" target="blank"><img id='social-icon' src="/assets/img/static/twitter.png" width="28px" /></a>
