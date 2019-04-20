@@ -22,12 +22,15 @@ The point of this is both a personal exercise of keeping track of things, but al
 That's a long intro.. Onto the list. This will be continuously updated as time goes by (remember Kaizen, continuous improvement!). Each point is also going to be as succinct as possible to make it a quick and easy list to read.
 
  **- Switched to a reusable coffee cup and water bottle.**
+
  A glass [KeepCup](http://www.keepcup.com) is my choice. I actively try to avoid plastic water bottles and disposable cups (within reason, again, it's about reduction not all or nothing).
 
  **- Switched all lightbulbs to LED or low wattage alternatives.**
+
  This can even be fun and more convenient if you go with something like Phillips Hue (albeit an expensive option, regular LED bulbs are cheap).
 
  **- Switched to Bamboo toothbrushes.**
+ 
  I'm still an advocate of a manual toothbrush, and there's no reason not to switch to bamboo. A pack of 4 bamboo brushes is about £10 on Amazon.
 
  **- I use Ecosia.**
