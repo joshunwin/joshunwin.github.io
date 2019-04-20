@@ -21,37 +21,34 @@ The point of this is both a personal exercise of keeping track of things, but al
 
 That's a long intro.. Onto the list. This will be continuously updated as time goes by (remember Kaizen, continuous improvement!). Each point is also going to be as succinct as possible to make it a quick and easy list to read.
 
- **- Switched to a reusable coffee cup and water bottle.**
- A glass [KeepCup](http://www.keepcup.com) is my choice. I actively try to avoid plastic water bottles and disposable cups (within reason, again, it's about reduction not all or nothing).
+**- Switched to a reusable coffee cup and water bottle.**
+A glass [KeepCup](http://www.keepcup.com) is my choice. I actively try to avoid plastic water bottles and disposable cups (within reason, again, it's about reduction not all or nothing).
 
- **- Switched all lightbulbs to LED or low wattage alternatives.**
- This can even be fun and more convenient if you go with something like Phillips Hue (albeit an expensive option, regular LED bulbs are cheap).
+**- Switched all lightbulbs to LED or low wattage alternatives.**
+This can even be fun and more convenient if you go with something like Phillips Hue (albeit an expensive option, regular LED bulbs are cheap).
 
- **- Switched to Bamboo toothbrushes.**
+**- Switched to Bamboo toothbrushes.**
+I'm still an advocate of a manual toothbrush, and there's no reason not to switch to bamboo. A pack of 4 bamboo brushes is about £10 on Amazon.
 
- I'm still an advocate of a manual toothbrush, and there's no reason not to switch to bamboo. A pack of 4 bamboo brushes is about £10 on Amazon.
+**- I use Ecosia.**
+[Ecosia](https://www.ecosia.org/) is a fairly new search engine that uses 100% of ad revenue to plant trees (turn off your adblock for the Ecosia domain!). It's a decent alternative to Google for basic searches (it uses Bing). A separate post on how I've got my browser/phone setup for Ecosia and Google to come.
 
- **- I use Ecosia.**
- [Ecosia](https://www.ecosia.org/) is a fairly new search engine that uses 100% of ad revenue to plant trees (turn off your adblock for the Ecosia domain!). It's a decent alternative to Google for basic searches (it uses Bing). A separate post on how I've got my browser/phone setup for Ecosia and Google to come.
+**- Switched energy supplier to a renewables focused one.** I went with [Bulb Energy](bulb.co.uk/refer/joshu9503) (review in the works!) who promise 100% renewable electricity supply at a very competitive price. Disclaimer, above is my referral link (money off for us both!). There are other green suppliers are out there.
 
- **- Switched energy supplier to a renewables focused one.** I went with [Bulb Energy](bulb.co.uk/refer/joshu9503) (review in the works!) who promise 100% renewable electricity supply at a very competitive price. Disclaimer, above is my referral link (money off for us both!). There are other green suppliers are out there.
+**- I buy less crap.** No matter how small, all physical goods have an environment footprint. I'm slowly moving away from consumerism as best I can and avoiding buying stuff I don't need. Got a music streaming service? You probably don't need the CD too. Got an iPhone X? You probably don't need an XS.
 
- **- I buy less crap.** No matter how small, all physical goods have an environment footprint. I'm slowly moving away from consumerism as best I can and avoiding buying stuff I don't need. Got a music streaming service? You probably don't need the CD too. Got an iPhone X? You probably don't need an XS.
+**- I say no to pointless 'free stuff'.** If you've already got enough pens to last a lifetime, you don't need that free pen with someones logo on it.
 
- **- I say no to pointless 'free stuff'.** If you've already got enough pens to last a lifetime, you don't need that free pen with someones logo on it.
+**- I'm reducing single-use** - Related to the coffee cup thing, I'm generally trying to reduce single use. Recycling is good, but not enough. One example, Nespresso. I still use my Nespresso machine, but less - I have an Aeropress which is a much less wasteful way to make coffee. Yes, you can recycle capsules, but it's still resource and energy intensive.
 
- **I'm reducing single-use** - Related to the coffee cup thing, I'm generally trying to reduce single use. Recycling is good, but not enough. One example, Nespresso. I still use my Nespresso machine, but less - I have an Aeropress which is a much less wasteful way to make coffee. Yes, you can recycle capsules, but it's still resource and energy intensive.
+**- I'm reducing my meat intake.** Western culture has developed a huge and unsustainable dependence on meat. Historically, meat was an expensive, occasional luxury - today you can get a cheeseburger for 99p. The food industry, and meat in particular has a *huge* environmental impact. Cutting meat completely is hard, reducing it isn't. I am aiming to eliminate all other meat except chicken and fish and make at least 80% of my lunches/dinners vegetarian or vegan within the next few months.
 
- **- I'm reducing my meat intake.** Western culture has developed a huge and unsustainable dependence on meat. Historically, meat was an expensive, occasional luxury - today you can get a cheeseburger for 99p. The food industry, and meat in particular has a *huge* environmental impact. Cutting meat completely is hard, reducing it isn't.
-
-**- Fish/Chicken beats red meat.** Stopping to eat meat is hard both mentality and practically, but opting for fish or chicken over red meat makes a big difference too (it's healthier too!). [
-](https://slate.com/technology/2009/04/which-meat-harms-our-planet-the-least.html), but we can safely say red meat (beef/lamb) is 4-10x worse (maybe more!) for the environment than chicken.
+**- Fish/Chicken beats red meat.** Stopping to eat meat is hard both mentality and practically, but opting for fish or chicken over red meat (particularly beef and lamb) makes a big difference (it's healthier too!). [
+](https://slate.com/technology/2009/04/which-meat-harms-our-planet-the-least.html), but we can safely say red meat (beef/lamb) is 4-10x worse (maybe more!) for the environment than chicken. I am aiming to eliminate all other meat except chicken and fish and make at least 80% of my lunches/dinners vegetarian or vegan within the next few months.
 
 **- I buy packaging free where possible.** Supermarkets (especially the smaller ones) don't make this easy, but I look to buy packaging free versions of things were possible. Especially stuff like fruit.
 
 **- I'm trying to buy food more local.** This one's difficult for me, but buying food from local sources saves a lot of energy from lack of transport and methods of keeping food fresh over long periods of time and distance. It usually means less packaging too.
-
-**I support environmentally friendly brands.** To me, whether or not this becomes a marketing move is irrelevant, it still promotes a green future. [Patagonia](https://www.patagonia.com/home/) are a big favourite of mine for this. They promote the idea of using clothing for as long as possible, and actively and openly try to reduce the footprint of all their products.
 
 **- I put less water in the kettle.** Boiling water fast requires a lot of energy. The more water, the more energy. I put only slightly more than what I need in. Saves money, time and reduces energy usage.
 
@@ -84,3 +81,7 @@ That's a long intro.. Onto the list. This will be continuously updated as time g
 **- I use soap!** Sounds simple because it is. I primarily use soap to wash myself. No plastic packaging, and lighter to transport than liquids. I still use a small amount of shower gel to freshen up, but each bottle lasts far longer this way.
 
 **- Plastic shopping bags get at least 2 uses.** If I do get caught out without a shopping bag and need to buy a 5p one, I use that bag later as a waste bin bag, doubling its usage.
+
+**- Be conscious of taking flights.** Flying is one of the biggest areas in my life in which I feel the most guilt. Having a partner who currently lives in France, I have been taking more short-haul flights than ever before. For now, I am contributing to carbon-offsetting for these flights and trying to limit them where possible. I have looked at the train as an alternative, but costs make this a tough sell, often around 6x the price! It is reasons like this that the individual alone can't solve these problems, train prices need to be reduced and flights need to be heavily taxed to even the cost. Trains need to be made more realistic for individuals.
+
+**- I use smart plugs.** There has been some debate over the usefulness of smart plugs and it's true their environmental benefits are certainly minimal, especially if you don't make use of them much. But I bought some for convenience too and now have them scheduled to completely switch off my TV and other devices at midnight, until I turn them back on manually. This reduces how long my devices are in stand-by mode significantly as I can often go days without using my TV (and therefore turning it back on)
