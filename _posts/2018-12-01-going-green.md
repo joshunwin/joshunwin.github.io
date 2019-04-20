@@ -21,13 +21,17 @@ The point of this is both a personal exercise of keeping track of things, but al
 
 That's a long intro.. Onto the list. This will be continuously updated as time goes by (remember Kaizen, continuous improvement!). Each point is also going to be as succinct as possible to make it a quick and easy list to read.
 
- **- Switched to a reusable coffee cup and water bottle.** A glass [KeepCup](http://www.keepcup.com) is my choice. I actively try to avoid plastic water bottles and disposable cups (within reason, again, it's about reduction not all or nothing).
+ **- Switched to a reusable coffee cup and water bottle.**
+ A glass [KeepCup](http://www.keepcup.com) is my choice. I actively try to avoid plastic water bottles and disposable cups (within reason, again, it's about reduction not all or nothing).
 
- **- Switched all lightbulbs to LED or low wattage alternatives.** This can even be fun and more convenient if you go with something like Phillips Hue (albeit an expensive option, regular LED bulbs are cheap).
+ **- Switched all lightbulbs to LED or low wattage alternatives.**
+ This can even be fun and more convenient if you go with something like Phillips Hue (albeit an expensive option, regular LED bulbs are cheap).
 
- **- Switched to Bamboo toothbrushes.** I'm still an advocate of a manual toothbrush, and there's no reason not to switch to bamboo. A pack of 4 bamboo brushes is about £10 on Amazon.
+ **- Switched to Bamboo toothbrushes.**
+ I'm still an advocate of a manual toothbrush, and there's no reason not to switch to bamboo. A pack of 4 bamboo brushes is about £10 on Amazon.
 
- **- I use Ecosia.** [Ecosia](https://www.ecosia.org/) is a fairly new search engine that uses 100% of ad revenue to plant trees (turn off your adblock for the Ecosia domain!). It's a decent alternative to Google for basic searches (it uses Bing). A separate post on how I've got my browser/phone setup for Ecosia and Google to come.
+ **- I use Ecosia.**
+ [Ecosia](https://www.ecosia.org/) is a fairly new search engine that uses 100% of ad revenue to plant trees (turn off your adblock for the Ecosia domain!). It's a decent alternative to Google for basic searches (it uses Bing). A separate post on how I've got my browser/phone setup for Ecosia and Google to come.
 
  **- Switched energy supplier to a renewables focused one.** I went with [Bulb Energy](bulb.co.uk/refer/joshu9503) (review in the works!) who promise 100% renewable electricity supply at a very competitive price. Disclaimer, above is my referral link (money off for us both!). There are other green suppliers are out there.
 
@@ -66,15 +70,15 @@ That's a long intro.. Onto the list. This will be continuously updated as time g
 
 **- I do washes at lower temperatures.** Heating up water is most energy intensive part of a washing machines process, and switching to cold washes where possible can reduce energy use by up-to around 70%.
 
-**I turn lights off.** It's an obvious one, but I was terrible at this as a kid. Even with energy efficient bulbs, no light is better when no one is in the room. Consider timers or smart plugs if it will help.
+**- I turn lights off.** It's an obvious one, but I was terrible at this as a kid. Even with energy efficient bulbs, no light is better when no one is in the room. Consider timers or smart plugs if it will help.
 
-**I use an electric blanket.** Something like [this](https://www.argos.co.uk/product/4500324). These things use next to no electricity (yes, even far less than boiling a kettle for a hot water bottle) and warm your bed up nicely. Using one of these for an hour a night could make you more comfortable reducing your central heating.
+**- I use an electric blanket.** Something like [this](https://www.argos.co.uk/product/4500324). These things use next to no electricity (yes, even far less than boiling a kettle for a hot water bottle) and warm your bed up nicely. Using one of these for an hour a night could make you more comfortable reducing your central heating.
 
-**I rarely print stuff.** Nowadays there is very little need to print a physical copy of most things. Boarding passes for plane? I use the app. Manuals? I read them on my phone/computer.
+**- I rarely print stuff.** Nowadays there is very little need to print a physical copy of most things. Boarding passes for plane? I use the app. Manuals? I read them on my phone/computer.
 
 **I say no to paper bills and correspondence.** If paper bills and other letters can be avoided, I do. They're not needed, waste paper and require delivering.
 
-**I live by "buy cheap, buy twice"** More of a practical/financial piece of advise, but one that leads to environmental benefits too. When it comes to buying something for long-term, I believe it's better to spend more on better quality products that last rather than cheap ones that'll you'll replace again far sooner.
+**- I live by "buy cheap, buy twice"** More of a practical/financial piece of advise, but one that leads to environmental benefits too. When it comes to buying something for long-term, I believe it's better to spend more on better quality products that last rather than cheap ones that'll you'll replace again far sooner.
 
 **- I use soap!** Sounds simple because it is. I primarily use soap to wash myself. No plastic packaging, and lighter to transport than liquids. I still use a small amount of shower gel to freshen up, but each bottle lasts far longer this way.
 
