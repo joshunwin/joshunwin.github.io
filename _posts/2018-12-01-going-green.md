@@ -11,9 +11,9 @@ The Japanese have a cultural ideology of 'constant improvement' when it comes to
 
 This approach to life is something I've come to realise I try to embrace - sometimes consciously but often subconsciously, and I feel it is as applicable as ever when it comes to building a more sustainable and ecological lifestyle, regardless of your starting point.
 
-Truth is, yes, the climate change clock is ticking and big changes in western lifestyle and culture are likely needed to curb our indulgent use of the planets resources, but attempts by hardcore environmentalists to force an 'all or nothing' approach onto unsuspecting individuals just won't work on 95% of people. It's too much change too quickly and truthfully daunting and impossible, especially when the rest of culture is too far behind (an example, an attempt to ditch all plastic packaging completely today will end in a world of pain, it's just not practical without law and business practices making it easer).
+Truth is, yes, the climate change clock is ticking and big changes in western lifestyle and culture are likely needed to curb our indulgent use of the planets resources, but attempts by hardcore environmentalists to force an 'all or nothing' approach onto unsuspecting individuals just won't work on 95% of people. It's too much change too quickly and truthfully daunting and impossible, especially when the rest of culture is too far behind (an example, an attempt to ditch all plastic packaging in your life today will end in a world of pain, it's just not practical without law and business practices in place to make it easier for the individual).
 
-So with that, my approach has been and continues to be *kaizen* - small gradual changes. Making the environment a factor I consider when making choices when it comes to the short term, and long term. It's an approach I suggest for others too, and with that I wanted to compile a list of every little thing I have done, do, or plan to do in the near future that has any relevance to the environment.
+So with that, my approach has been and continues to be *kaizen* - small constant changes. Full disclosure, I am far from a model example of an environmentally friendly individual but I am making the environment a factor I consider when making decisions, both short and long term. It's an approach I suggest for others too, and so I wanted to compile a list of every little thing I have done, do, or plan to do in the near future that has any relevance to the environment.
 
 This is NOT to say the future of the environment lies in the hands of the individual - my opinion couldn't be further from that. Governments and corporations are to blame and must take big actions against the various environmental issues we face today, but that's not to say we should all aim toward leading a greener lifestyle. If we as consumers demand environmentally friendly practices then you can bet corporations will start doing it, they want our continued business.
 
@@ -60,13 +60,13 @@ I'm still an advocate of a manual toothbrush, and there's no reason not to switc
 
 **- I've added some plants to the home.** Perhaps more of a personal health one, but this is especially worthwhile if you live in the city. Adding plants to your home not only adds to the decor, but also assists in reducing CO2. I went for a snake plant and some other smaller table plants.
 
-**- I've been selling/donating stuff I don't need.** Instead of having clutter around the house, or throwing things away - finding a new home for perfectly usable goods is a good way to help the environment. Help others avoid buying new.
+**- I'm selling/donating stuff I don't need.** Instead of having clutter around the house, or throwing things away - finding a new home for perfectly usable goods is an excellent way to help the environment. Help others avoid buying new.
 
-**- I buy less beverages.** Jointly health related, I drink far less soft drinks and juices now. Tap water is cheaper, far less wasteful, and of course way healthier. Every can of Coke is the accumulation of a lot of resources to produce, package and transport to your house. I now consider these drinks an occasional treat rather than a daily part of my diet.
+**- I buy less beverages.** Jointly health related, I drink far less soft drinks and juices now. Tap water is cheaper, far less wasteful, and of course way healthier. Every can of Coke is the accumulation of a lot of resources to produce, package and transport to your house. I consider these drinks an occasional treat rather than a daily part of my diet.
 
 **- I consider alcohol more carefully.** I don't drink a lot anyway, but I only recently considered how many resources goes into production of a bottle beer or a glass of wine. Between that and my health, I find myself drinking even less than before.
 
-**- I do washes at lower temperatures.** Heating up water is most energy intensive part of a washing machines process, and switching to cold washes where possible can reduce energy use by up-to around 70%.
+**- I do washes at lower temperatures.** Heating up water is the most energy intensive part of a washing machines process, and switching to cold washes where possible can reduce energy use by up-to  70%.
 
 **- I turn lights off.** It's an obvious one, but I was terrible at this as a kid. Even with energy efficient bulbs, no light is better when no one is in the room. Consider timers or smart plugs if it will help.
 
@@ -78,10 +78,12 @@ I'm still an advocate of a manual toothbrush, and there's no reason not to switc
 
 **- I live by "buy cheap, buy twice"** More of a practical/financial piece of advise, but one that leads to environmental benefits too. When it comes to buying something for long-term, I believe it's better to spend more on better quality products that last rather than cheap ones that'll you'll replace again far sooner.
 
-**- I use soap!** Sounds simple because it is. I primarily use soap to wash myself. No plastic packaging, and lighter to transport than liquids. I still use a small amount of shower gel to freshen up, but each bottle lasts far longer this way.
+**- I use soap!** Sounds simple because it is. I primarily use good old fashioned bars of soap to wash myself. No plastic packaging and lighter to transport than liquids. I still use a small amount of shower gel to freshen up, but each bottle lasts far longer this way.
 
 **- Plastic shopping bags get at least 2 uses.** If I do get caught out without a shopping bag and need to buy a 5p one, I use that bag later as a waste bin bag, doubling its usage.
 
 **- Be conscious of taking flights.** Flying is one of the biggest areas in my life in which I feel the most guilt. Having a partner who currently lives in France, I have been taking more short-haul flights than ever before. For now, I am contributing to carbon-offsetting for these flights and trying to limit them where possible. I have looked at the train as an alternative, but costs make this a tough sell, often around 6x the price! It is reasons like this that the individual alone can't solve these problems, train prices need to be reduced and flights need to be heavily taxed to even the cost. Trains need to be made more realistic for individuals.
 
-**- I use smart plugs.** There has been some debate over the usefulness of smart plugs and it's true their environmental benefits are certainly minimal, especially if you don't make use of them much. But I bought some for convenience too and now have them scheduled to completely switch off my TV and other devices at midnight, until I turn them back on manually. This reduces how long my devices are in stand-by mode significantly as I can often go days without using my TV (and therefore turning it back on)
+**- I use smart plugs.** There has been some debate over the usefulness of smart plugs and it's true their environmental benefits are certainly minimal, especially if you don't make use of them much. But I bought some for convenience too and now have them scheduled to completely switch off my TV and other devices at midnight, until I turn them back on manually. This reduces how long my devices are in stand-by mode significantly as I can often go days without using my TV (and therefore turning it back on).
+
+**- I limit my car use.** My car only gets used a handful of times a month, only using it when it's strictly necessary.

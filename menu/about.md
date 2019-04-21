@@ -7,7 +7,7 @@ title: Who am I and what is this?
 
 Hi, I'm Josh from London, I like coffee and [Weetos](https://www.weetabixfoodcompany.co.uk/our-brands/weetos).
 
-I currently work in film and tv, looking after the footage pipeline during production. What does that mean you ask? In short, if the answer to these is yes, then my job is done: Are the rushes (footage) safe? Are editorial happy? Is the production team happy? Does the cinematographers look pass through correctly to post production?
+I currently work in film and tv, looking after the footage pipeline during production. What does that mean you ask? Well, that's not the aim of this blog, so if you're really keen to know you can drop me a line! Later this year I am headed off to Bali to learn more about software development.
 
 Outside of work, I have a few interests and hobbies that I hope to be able to write a little bit about here. I've always enjoyed writing, and I wanted a place to satisfy that enjoyment by allowing me to post any thoughts I deem worthy of a spot on this little blog. Posts could be just about any topic, but expect a fair amount of environmental and technology orientated pieces - two things I'm passionate about and keen to embrace further.
 
