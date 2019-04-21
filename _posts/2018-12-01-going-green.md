@@ -17,7 +17,7 @@ So with that, my approach has been and continues to be *kaizen* - small constant
 
 This is NOT to say the future of the environment lies in the hands of the individual - my opinion couldn't be further from that. Governments and corporations are to blame and must take big actions against the various environmental issues we face today, but that's not to say we should all aim toward leading a greener lifestyle. If we as consumers demand environmentally friendly practices then you can bet corporations will start doing it, they want our continued business.
 
-The point of this is both a personal exercise of keeping track of things, but also to put out ideas for others. Everyone is in a different situation so some of you could do more than me, some could do less and some could do completely different things. If you live in the countryside, growing your own vegetables and sourcing food locally, you inherently have a pretty sustainable lifestyle compared with the likes of myself, living in the city.
+The point of this is both a personal exercise of keeping track of things, but also to put out ideas for others. Everyone is in a different situation so some of you could do more than me, some could do less and some could do completely different things. If you live in the countryside, growing your own vegetables and sourcing food locally, you inherently have a pretty sustainable lifestyle compared to the likes of myself, living in the city.
 
 That's a long intro.. Onto the list. This will be continuously updated as time goes by (remember Kaizen, continuous improvement!). Each point is also going to be as succinct as possible to make it a quick and easy list to read.
 
