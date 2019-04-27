@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Bulb Energy - A brighter way to power the home"
 author: "Josh Unwin"
