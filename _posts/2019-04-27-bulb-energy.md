@@ -7,7 +7,7 @@ tags: [environment,green,lifestyle]
 image: /bulb/bulb-cover.gif
 ---
 
-Founded in 2015, [Bulb Energy](https://bulb.co.uk) is one of the new kids on the block within the UK energy supplier market. Their promise? To provide 100% renewably sourced electricity for all. With a keen interest in doing what I can for environment, this was a no-brainer for me, so a back in August of last year I initiated their '2 minute' switch process. Here's how the experience has been 6 months (spoilers, it's great!).
+Founded in 2015, [Bulb Energy](http://bulb.co.uk/refer/joshu9503) is one of the new kids on the block within the UK energy supplier market. Their promise? To provide 100% renewably sourced electricity for all. With a keen interest in doing what I can for environment, this was a no-brainer for me, so a back in August of last year I initiated their '2 minute' switch process. Here's how the experience has been 6 months (spoilers, it's great!).
 
 
 ## The switch
