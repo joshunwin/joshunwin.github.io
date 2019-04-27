@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bulb Energy - A brighter way to power the home"
+title: "Bulb Energy - A brighter way to power your home"
 author: "Josh Unwin"
 categories: journal
 tags: [environment,green,lifestyle]
