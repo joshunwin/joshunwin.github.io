@@ -70,7 +70,7 @@ Bulb have a very clean and easy to use mobile app for Android and iOS which incl
 
 They email you with account updates as you need them along with newsletters to keep you in the loop. All in all, everything so far has just worked.
 
-  ![A screenshot from Bulb's Android app](/assets/img/bulb/bulb-android-app.jpg)
+  ![A screenshot from Bulb's Android app](/assets/img/bulb/bulb-android-app.png)
 
 ## The big green claims
 
